@@ -1,13 +1,12 @@
-# fly.toml app configuration file generated for cancha on 2026-10-07T18:27:10Z
+# fly.toml app configuration file generated for canchita-aqpbia on 2026-11-11T17:21:24Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'canchita'
+app = 'canchita-aqpbia'
 primary_region = 'gru'
 
 [build]
-
 [http_service]
   internal_port = 8080
   force_https = true
