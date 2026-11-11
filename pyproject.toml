@@ -1,0 +1,33 @@
+[project]
+name = "game-tracker"
+version = "2.0.0"
+description = "Game Tracker: the football games you attended, and what happened in them"
+requires-python = ">=3.12"
+
+# Pinned to the versions this project was built and verified against. uv.lock
+# pins the full transitive tree on top of these.
+dependencies = [
+    "fastapi==0.136.1",
+    "uvicorn[standard]==0.46.0",
+    "sqlalchemy==2.1.6",
+    "psycopg2-binary==2.9.13",
+    "alembic==1.20.1",
+    "python-dotenv==1.2.4",
+    "pydantic-settings==2.16.2",
+    # [crypto] pulls in `cryptography`, needed to verify Supabase's ES256 JWTs
+    # against the project JWKS.
+    "pyjwt[crypto]==2.15.1",
+]
+
+[dependency-groups]
+# backend_2/seed/* -- data loading, not needed to serve the API.
+#   requests : ESPN calls (sync_games, sync_goals, download_crests)
+#   pillow   : crest resizing (resize_crests)
+seed = [
+    "requests>=2.32",
+    "pillow>=11",
+]
+
+[tool.uv]
+# An application, not a library: uv manages the environment but builds nothing.
+package = false

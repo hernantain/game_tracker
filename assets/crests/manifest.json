@@ -1,0 +1,3372 @@
+{
+  "1": {
+    "teamId": 1,
+    "espnTeamId": "2677",
+    "teamName": "12 de Octubre",
+    "files": {
+      "500": "500/2677.png",
+      "128": "128/2677.png",
+      "64": "64/2677.png"
+    }
+  },
+  "2": {
+    "teamId": 2,
+    "espnTeamId": "6097",
+    "teamName": "2 de Mayo",
+    "files": {
+      "500": "500/6097.png",
+      "128": "128/6097.png",
+      "64": "64/6097.png"
+    }
+  },
+  "3": {
+    "teamId": 3,
+    "espnTeamId": "20859",
+    "teamName": "9 de Octubre",
+    "files": {
+      "500": "500/20859.png",
+      "128": "128/20859.png",
+      "64": "64/20859.png"
+    }
+  },
+  "490": {
+    "teamId": 490,
+    "espnTeamId": "4810",
+    "teamName": "A.C. Mineros",
+    "files": {
+      "500": "500/4810.png",
+      "128": "128/4810.png",
+      "64": "64/4810.png"
+    }
+  },
+  "5": {
+    "teamId": 5,
+    "espnTeamId": "18995",
+    "teamName": "Academia Puerto Cabello",
+    "files": {
+      "500": "500/18995.png",
+      "128": "128/18995.png",
+      "64": "64/18995.png"
+    }
+  },
+  "6": {
+    "teamId": 6,
+    "espnTeamId": "10145",
+    "teamName": "Acassuso",
+    "files": {
+      "500": "500/10145.png",
+      "128": "128/10145.png",
+      "64": "64/10145.png"
+    }
+  },
+  "4": {
+    "teamId": 4,
+    "espnTeamId": "21314",
+    "teamName": "ADT",
+    "files": {
+      "500": "500/21314.png",
+      "128": "128/21314.png",
+      "64": "64/21314.png"
+    }
+  },
+  "7": {
+    "teamId": 7,
+    "espnTeamId": "13913",
+    "teamName": "Agropecuario",
+    "files": {
+      "500": "500/13913.png",
+      "128": "128/13913.png",
+      "64": "64/13913.png"
+    }
+  },
+  "345": {
+    "teamId": 345,
+    "espnTeamId": "9762",
+    "teamName": "Águilas Doradas",
+    "files": {
+      "500": "500/9762.png",
+      "128": "128/9762.png",
+      "64": "64/9762.png"
+    }
+  },
+  "8": {
+    "teamId": 8,
+    "espnTeamId": "9739",
+    "teamName": "Aldosivi",
+    "files": {
+      "500": "500/9739.png",
+      "128": "128/9739.png",
+      "64": "64/9739.png"
+    }
+  },
+  "352": {
+    "teamId": 352,
+    "espnTeamId": "5267",
+    "teamName": "Alianza Atlético",
+    "files": {
+      "500": "500/5267.png",
+      "128": "128/5267.png",
+      "64": "64/5267.png"
+    }
+  },
+  "9": {
+    "teamId": 9,
+    "espnTeamId": "9761",
+    "teamName": "Alianza FC",
+    "files": {
+      "500": "500/9761.png",
+      "128": "128/9761.png",
+      "64": "64/9761.png"
+    }
+  },
+  "10": {
+    "teamId": 10,
+    "espnTeamId": "2680",
+    "teamName": "Alianza Lima",
+    "files": {
+      "500": "500/2680.png",
+      "128": "128/2680.png",
+      "64": "64/2680.png"
+    }
+  },
+  "12": {
+    "teamId": 12,
+    "espnTeamId": "9786",
+    "teamName": "All Boys",
+    "files": {
+      "500": "500/9786.png",
+      "128": "128/9786.png",
+      "64": "64/9786.png"
+    }
+  },
+  "13": {
+    "teamId": 13,
+    "espnTeamId": "2",
+    "teamName": "Almagro",
+    "files": {
+      "500": "500/2.png",
+      "128": "128/2.png",
+      "64": "64/2.png"
+    }
+  },
+  "14": {
+    "teamId": 14,
+    "espnTeamId": "9740",
+    "teamName": "Almirante Brown",
+    "files": {
+      "500": "500/9740.png",
+      "128": "128/9740.png",
+      "64": "64/9740.png"
+    }
+  },
+  "15": {
+    "teamId": 15,
+    "espnTeamId": "11968",
+    "teamName": "Altos PI",
+    "files": {
+      "500": "500/11968.png",
+      "128": "128/11968.png",
+      "64": "64/11968.png"
+    }
+  },
+  "16": {
+    "teamId": 16,
+    "espnTeamId": "19143",
+    "teamName": "Alvarado (Mar del Plata)",
+    "files": {
+      "500": "500/19143.png",
+      "128": "128/19143.png",
+      "64": "64/19143.png"
+    }
+  },
+  "17": {
+    "teamId": 17,
+    "espnTeamId": "19425",
+    "teamName": "Always Ready",
+    "files": {
+      "500": "500/19425.png",
+      "128": "128/19425.png",
+      "64": "64/19425.png"
+    }
+  },
+  "19": {
+    "teamId": 19,
+    "espnTeamId": "8109",
+    "teamName": "América de Cali",
+    "files": {
+      "500": "500/8109.png",
+      "128": "128/8109.png",
+      "64": "64/8109.png"
+    }
+  },
+  "18": {
+    "teamId": 18,
+    "espnTeamId": "6154",
+    "teamName": "América Mineiro",
+    "files": {
+      "500": "500/6154.png",
+      "128": "128/6154.png",
+      "64": "64/6154.png"
+    }
+  },
+  "21": {
+    "teamId": 21,
+    "espnTeamId": "6071",
+    "teamName": "Antofagasta",
+    "files": {
+      "500": "500/6071.png",
+      "128": "128/6071.png",
+      "64": "64/6071.png"
+    }
+  },
+  "22": {
+    "teamId": 22,
+    "espnTeamId": "6036",
+    "teamName": "Aragua",
+    "files": {
+      "500": "500/6036.png",
+      "128": "128/6036.png",
+      "64": "64/6036.png"
+    }
+  },
+  "24": {
+    "teamId": 24,
+    "espnTeamId": "17700",
+    "teamName": "Argentino de Merlo",
+    "files": {
+      "500": "500/17700.png",
+      "128": "128/17700.png",
+      "64": "64/17700.png"
+    }
+  },
+  "25": {
+    "teamId": 25,
+    "espnTeamId": "17693",
+    "teamName": "Argentino de Quilmes",
+    "files": {
+      "500": "500/17693.png",
+      "128": "128/17693.png",
+      "64": "64/17693.png"
+    }
+  },
+  "26": {
+    "teamId": 26,
+    "espnTeamId": "3",
+    "teamName": "Argentinos Juniors",
+    "files": {
+      "500": "500/3.png",
+      "128": "128/3.png",
+      "64": "64/3.png"
+    }
+  },
+  "27": {
+    "teamId": 27,
+    "espnTeamId": "2635",
+    "teamName": "Arsenal Sarandi",
+    "files": {
+      "500": "500/2635.png",
+      "128": "128/2635.png",
+      "64": "64/2635.png"
+    }
+  },
+  "28": {
+    "teamId": 28,
+    "espnTeamId": "11950",
+    "teamName": "At. Paraná",
+    "files": {
+      "500": "500/11950.png",
+      "128": "128/11950.png",
+      "64": "64/11950.png"
+    }
+  },
+  "29": {
+    "teamId": 29,
+    "espnTeamId": "3458",
+    "teamName": "Athletico-PR",
+    "files": {
+      "500": "500/3458.png",
+      "128": "128/3458.png",
+      "64": "64/3458.png"
+    }
+  },
+  "30": {
+    "teamId": 30,
+    "espnTeamId": "10146",
+    "teamName": "Atlanta",
+    "files": {
+      "500": "500/10146.png",
+      "128": "128/10146.png",
+      "64": "64/10146.png"
+    }
+  },
+  "31": {
+    "teamId": 31,
+    "espnTeamId": "10099",
+    "teamName": "Atlas",
+    "files": {
+      "500": "500/10099.png",
+      "128": "128/10099.png",
+      "64": "64/10099.png"
+    }
+  },
+  "32": {
+    "teamId": 32,
+    "espnTeamId": "216",
+    "teamName": "Atlas",
+    "files": {
+      "500": "500/216.png",
+      "128": "128/216.png",
+      "64": "64/216.png"
+    }
+  },
+  "34": {
+    "teamId": 34,
+    "espnTeamId": "6137",
+    "teamName": "Atlético Bucaramanga",
+    "files": {
+      "500": "500/6137.png",
+      "128": "128/6137.png",
+      "64": "64/6137.png"
+    }
+  },
+  "35": {
+    "teamId": 35,
+    "espnTeamId": "10357",
+    "teamName": "Atlético Goianiense",
+    "files": {
+      "500": "500/10357.png",
+      "128": "128/10357.png",
+      "64": "64/10357.png"
+    }
+  },
+  "36": {
+    "teamId": 36,
+    "espnTeamId": "20293",
+    "teamName": "Atlético Grau",
+    "files": {
+      "500": "500/20293.png",
+      "128": "128/20293.png",
+      "64": "64/20293.png"
+    }
+  },
+  "38": {
+    "teamId": 38,
+    "espnTeamId": "4815",
+    "teamName": "Atlético Junior",
+    "files": {
+      "500": "500/4815.png",
+      "128": "128/4815.png",
+      "64": "64/4815.png"
+    }
+  },
+  "39": {
+    "teamId": 39,
+    "espnTeamId": "5264",
+    "teamName": "Atlético Nacional",
+    "files": {
+      "500": "500/5264.png",
+      "128": "128/5264.png",
+      "64": "64/5264.png"
+    }
+  },
+  "40": {
+    "teamId": 40,
+    "espnTeamId": "20654",
+    "teamName": "Atlético Palmaflor",
+    "files": {
+      "500": "500/20654.png",
+      "128": "128/20654.png",
+      "64": "64/20654.png"
+    }
+  },
+  "33": {
+    "teamId": 33,
+    "espnTeamId": "9747",
+    "teamName": "Atletico Rafaela",
+    "files": {
+      "500": "500/9747.png",
+      "128": "128/9747.png",
+      "64": "64/9747.png"
+    }
+  },
+  "41": {
+    "teamId": 41,
+    "espnTeamId": "9785",
+    "teamName": "Atlético Tucumán",
+    "files": {
+      "500": "500/9785.png",
+      "128": "128/9785.png",
+      "64": "64/9785.png"
+    }
+  },
+  "42": {
+    "teamId": 42,
+    "espnTeamId": "10522",
+    "teamName": "Atlético Venezuela",
+    "files": {
+      "500": "500/10522.png",
+      "128": "128/10522.png",
+      "64": "64/10522.png"
+    }
+  },
+  "43": {
+    "teamId": 43,
+    "espnTeamId": "7632",
+    "teamName": "Atlético-MG",
+    "files": {
+      "500": "500/7632.png",
+      "128": "128/7632.png",
+      "64": "64/7632.png"
+    }
+  },
+  "44": {
+    "teamId": 44,
+    "espnTeamId": "6017",
+    "teamName": "Aucas",
+    "files": {
+      "500": "500/6017.png",
+      "128": "128/6017.png",
+      "64": "64/6017.png"
+    }
+  },
+  "45": {
+    "teamId": 45,
+    "espnTeamId": "4138",
+    "teamName": "Audax Italiano",
+    "files": {
+      "500": "500/4138.png",
+      "128": "128/4138.png",
+      "64": "64/4138.png"
+    }
+  },
+  "46": {
+    "teamId": 46,
+    "espnTeamId": "6046",
+    "teamName": "Aurora",
+    "files": {
+      "500": "500/6046.png",
+      "128": "128/6046.png",
+      "64": "64/6046.png"
+    }
+  },
+  "47": {
+    "teamId": 47,
+    "espnTeamId": "10116",
+    "teamName": "Ayacucho FC",
+    "files": {
+      "500": "500/10116.png",
+      "128": "128/10116.png",
+      "64": "64/10116.png"
+    }
+  },
+  "48": {
+    "teamId": 48,
+    "espnTeamId": "9967",
+    "teamName": "Bahia",
+    "files": {
+      "500": "500/9967.png",
+      "128": "128/9967.png",
+      "64": "64/9967.png"
+    }
+  },
+  "49": {
+    "teamId": 49,
+    "espnTeamId": "235",
+    "teamName": "Banfield",
+    "files": {
+      "500": "500/235.png",
+      "128": "128/235.png",
+      "64": "64/235.png"
+    }
+  },
+  "50": {
+    "teamId": 50,
+    "espnTeamId": "2686",
+    "teamName": "Barcelona SC",
+    "files": {
+      "500": "500/2686.png",
+      "128": "128/2686.png",
+      "64": "64/2686.png"
+    }
+  },
+  "51": {
+    "teamId": 51,
+    "espnTeamId": "10060",
+    "teamName": "Barracas Central",
+    "files": {
+      "500": "500/10060.png",
+      "128": "128/10060.png",
+      "64": "64/10060.png"
+    }
+  },
+  "52": {
+    "teamId": 52,
+    "espnTeamId": "4",
+    "teamName": "Belgrano (Córdoba)",
+    "files": {
+      "500": "500/4.png",
+      "128": "128/4.png",
+      "64": "64/4.png"
+    }
+  },
+  "53": {
+    "teamId": 53,
+    "espnTeamId": "17349",
+    "teamName": "Berazategui",
+    "files": {
+      "500": "500/17349.png",
+      "128": "128/17349.png",
+      "64": "64/17349.png"
+    }
+  },
+  "54": {
+    "teamId": 54,
+    "espnTeamId": "6047",
+    "teamName": "Blooming",
+    "files": {
+      "500": "500/6047.png",
+      "128": "128/6047.png",
+      "64": "64/6047.png"
+    }
+  },
+  "55": {
+    "teamId": 55,
+    "espnTeamId": "5",
+    "teamName": "Boca Juniors",
+    "files": {
+      "500": "500/5.png",
+      "128": "128/5.png",
+      "64": "64/5.png"
+    }
+  },
+  "56": {
+    "teamId": 56,
+    "espnTeamId": "10489",
+    "teamName": "Boca Unidos",
+    "files": {
+      "500": "500/10489.png",
+      "128": "128/10489.png",
+      "64": "64/10489.png"
+    }
+  },
+  "57": {
+    "teamId": 57,
+    "espnTeamId": "2681",
+    "teamName": "Bolívar",
+    "files": {
+      "500": "500/2681.png",
+      "128": "128/2681.png",
+      "64": "64/2681.png"
+    }
+  },
+  "58": {
+    "teamId": 58,
+    "espnTeamId": "9999",
+    "teamName": "Boston River",
+    "files": {
+      "500": "500/9999.png",
+      "128": "128/9999.png",
+      "64": "64/9999.png"
+    }
+  },
+  "59": {
+    "teamId": 59,
+    "espnTeamId": "6086",
+    "teamName": "Botafogo",
+    "files": {
+      "500": "500/6086.png",
+      "128": "128/6086.png",
+      "64": "64/6086.png"
+    }
+  },
+  "61": {
+    "teamId": 61,
+    "espnTeamId": "10147",
+    "teamName": "Brown de Adrogué",
+    "files": {
+      "500": "500/10147.png",
+      "128": "128/10147.png",
+      "64": "64/10147.png"
+    }
+  },
+  "62": {
+    "teamId": 62,
+    "espnTeamId": "17694",
+    "teamName": "Cambaceres",
+    "files": {
+      "500": "500/17694.png",
+      "128": "128/17694.png",
+      "64": "64/17694.png"
+    }
+  },
+  "63": {
+    "teamId": 63,
+    "espnTeamId": "18662",
+    "teamName": "Camioneros",
+    "files": {
+      "500": "500/18662.png",
+      "128": "128/18662.png",
+      "64": "64/18662.png"
+    }
+  },
+  "67": {
+    "teamId": 67,
+    "espnTeamId": "10046",
+    "teamName": "Cañuelas",
+    "files": {
+      "500": "500/10046.png",
+      "128": "128/10046.png",
+      "64": "64/10046.png"
+    }
+  },
+  "64": {
+    "teamId": 64,
+    "espnTeamId": "6037",
+    "teamName": "Carabobo",
+    "files": {
+      "500": "500/6037.png",
+      "128": "128/6037.png",
+      "64": "64/6037.png"
+    }
+  },
+  "65": {
+    "teamId": 65,
+    "espnTeamId": "4811",
+    "teamName": "Caracas FC",
+    "files": {
+      "500": "500/4811.png",
+      "128": "128/4811.png",
+      "64": "64/4811.png"
+    }
+  },
+  "66": {
+    "teamId": 66,
+    "espnTeamId": "19433",
+    "teamName": "Carlos A. Mannucci",
+    "files": {
+      "500": "500/19433.png",
+      "128": "128/19433.png",
+      "64": "64/19433.png"
+    }
+  },
+  "547": {
+    "teamId": 547,
+    "espnTeamId": "10490",
+    "teamName": "CD Lara",
+    "files": {
+      "500": "500/10490.png",
+      "128": "128/10490.png",
+      "64": "64/10490.png"
+    }
+  },
+  "68": {
+    "teamId": 68,
+    "espnTeamId": "9969",
+    "teamName": "Ceará",
+    "files": {
+      "500": "500/9969.png",
+      "128": "128/9969.png",
+      "64": "64/9969.png"
+    }
+  },
+  "69": {
+    "teamId": 69,
+    "espnTeamId": "10100",
+    "teamName": "Central Ballester",
+    "files": {
+      "500": "500/10100.png",
+      "128": "128/10100.png",
+      "64": "64/10100.png"
+    }
+  },
+  "70": {
+    "teamId": 70,
+    "espnTeamId": "10148",
+    "teamName": "Central Córdoba (Rosario)",
+    "files": {
+      "500": "500/10148.png",
+      "128": "128/10148.png",
+      "64": "64/10148.png"
+    }
+  },
+  "71": {
+    "teamId": 71,
+    "espnTeamId": "11989",
+    "teamName": "Central Córdoba (Santiago del Estero)",
+    "files": {
+      "500": "500/11989.png",
+      "128": "128/11989.png",
+      "64": "64/11989.png"
+    }
+  },
+  "72": {
+    "teamId": 72,
+    "espnTeamId": "11993",
+    "teamName": "Central Norte",
+    "files": {
+      "500": "500/11993.png",
+      "128": "128/11993.png",
+      "64": "64/11993.png"
+    }
+  },
+  "73": {
+    "teamId": 73,
+    "espnTeamId": "10101",
+    "teamName": "Centro Español",
+    "files": {
+      "500": "500/10101.png",
+      "128": "128/10101.png",
+      "64": "64/10101.png"
+    }
+  },
+  "74": {
+    "teamId": 74,
+    "espnTeamId": "5490",
+    "teamName": "Cerro",
+    "files": {
+      "500": "500/5490.png",
+      "128": "128/5490.png",
+      "64": "64/5490.png"
+    }
+  },
+  "75": {
+    "teamId": 75,
+    "espnTeamId": "9902",
+    "teamName": "Cerro Largo",
+    "files": {
+      "500": "500/9902.png",
+      "128": "128/9902.png",
+      "64": "64/9902.png"
+    }
+  },
+  "76": {
+    "teamId": 76,
+    "espnTeamId": "2671",
+    "teamName": "Cerro Porteño",
+    "files": {
+      "500": "500/2671.png",
+      "128": "128/2671.png",
+      "64": "64/2671.png"
+    }
+  },
+  "103": {
+    "teamId": 103,
+    "espnTeamId": "5567",
+    "teamName": "César Vallejo",
+    "files": {
+      "500": "500/5567.png",
+      "128": "128/5567.png",
+      "64": "64/5567.png"
+    }
+  },
+  "77": {
+    "teamId": 77,
+    "espnTeamId": "6",
+    "teamName": "Chacarita Juniors",
+    "files": {
+      "500": "500/6.png",
+      "128": "128/6.png",
+      "64": "64/6.png"
+    }
+  },
+  "78": {
+    "teamId": 78,
+    "espnTeamId": "11963",
+    "teamName": "Chaco For Ever",
+    "files": {
+      "500": "500/11963.png",
+      "128": "128/11963.png",
+      "64": "64/11963.png"
+    }
+  },
+  "79": {
+    "teamId": 79,
+    "espnTeamId": "9318",
+    "teamName": "Chapecoense",
+    "files": {
+      "500": "500/9318.png",
+      "128": "128/9318.png",
+      "64": "64/9318.png"
+    }
+  },
+  "80": {
+    "teamId": 80,
+    "espnTeamId": "3372",
+    "teamName": "Cienciano del Cusco",
+    "files": {
+      "500": "500/3372.png",
+      "128": "128/3372.png",
+      "64": "64/3372.png"
+    }
+  },
+  "82": {
+    "teamId": 82,
+    "espnTeamId": "21799",
+    "teamName": "Ciudad de Bolívar",
+    "files": {
+      "500": "500/21799.png",
+      "128": "128/21799.png",
+      "64": "64/21799.png"
+    }
+  },
+  "83": {
+    "teamId": 83,
+    "espnTeamId": "10102",
+    "teamName": "Claypole",
+    "files": {
+      "500": "500/10102.png",
+      "128": "128/10102.png",
+      "64": "64/10102.png"
+    }
+  },
+  "84": {
+    "teamId": 84,
+    "espnTeamId": "221",
+    "teamName": "Club Atlético Morelia",
+    "files": {
+      "500": "500/221.png",
+      "128": "128/221.png",
+      "64": "64/221.png"
+    }
+  },
+  "85": {
+    "teamId": 85,
+    "espnTeamId": "2675",
+    "teamName": "Club Olimpia",
+    "files": {
+      "500": "500/2675.png",
+      "128": "128/2675.png",
+      "64": "64/2675.png"
+    }
+  },
+  "87": {
+    "teamId": 87,
+    "espnTeamId": "17574",
+    "teamName": "Club Petrolero de Yacuiba",
+    "files": {
+      "500": "500/17574.png",
+      "128": "128/17574.png",
+      "64": "64/17574.png"
+    }
+  },
+  "561": {
+    "teamId": 561,
+    "espnTeamId": "2678",
+    "teamName": "Cobreloa",
+    "files": {
+      "500": "500/2678.png",
+      "128": "128/2678.png",
+      "64": "64/2678.png"
+    }
+  },
+  "88": {
+    "teamId": 88,
+    "espnTeamId": "4133",
+    "teamName": "Cobresal",
+    "files": {
+      "500": "500/4133.png",
+      "128": "128/4133.png",
+      "64": "64/4133.png"
+    }
+  },
+  "89": {
+    "teamId": 89,
+    "espnTeamId": "10149",
+    "teamName": "Colegiales",
+    "files": {
+      "500": "500/10149.png",
+      "128": "128/10149.png",
+      "64": "64/10149.png"
+    }
+  },
+  "90": {
+    "teamId": 90,
+    "espnTeamId": "2688",
+    "teamName": "Colo Colo",
+    "files": {
+      "500": "500/2688.png",
+      "128": "128/2688.png",
+      "64": "64/2688.png"
+    }
+  },
+  "91": {
+    "teamId": 91,
+    "espnTeamId": "7",
+    "teamName": "Colón (Santa Fe)",
+    "files": {
+      "500": "500/7.png",
+      "128": "128/7.png",
+      "64": "64/7.png"
+    }
+  },
+  "92": {
+    "teamId": 92,
+    "espnTeamId": "18153",
+    "teamName": "Comerciantes Unidos",
+    "files": {
+      "500": "500/18153.png",
+      "128": "128/18153.png",
+      "64": "64/18153.png"
+    }
+  },
+  "93": {
+    "teamId": 93,
+    "espnTeamId": "14074",
+    "teamName": "Comunicaciones",
+    "files": {
+      "500": "500/14074.png",
+      "128": "128/14074.png",
+      "64": "64/14074.png"
+    }
+  },
+  "94": {
+    "teamId": 94,
+    "espnTeamId": "8186",
+    "teamName": "Coquimbo Unido",
+    "files": {
+      "500": "500/8186.png",
+      "128": "128/8186.png",
+      "64": "64/8186.png"
+    }
+  },
+  "95": {
+    "teamId": 95,
+    "espnTeamId": "874",
+    "teamName": "Corinthians",
+    "files": {
+      "500": "500/874.png",
+      "128": "128/874.png",
+      "64": "64/874.png"
+    }
+  },
+  "96": {
+    "teamId": 96,
+    "espnTeamId": "3456",
+    "teamName": "Coritiba",
+    "files": {
+      "500": "500/3456.png",
+      "128": "128/3456.png",
+      "64": "64/3456.png"
+    }
+  },
+  "97": {
+    "teamId": 97,
+    "espnTeamId": "9971",
+    "teamName": "Criciúma",
+    "files": {
+      "500": "500/9971.png",
+      "128": "128/9971.png",
+      "64": "64/9971.png"
+    }
+  },
+  "98": {
+    "teamId": 98,
+    "espnTeamId": "11958",
+    "teamName": "Crucero del Norte",
+    "files": {
+      "500": "500/11958.png",
+      "128": "128/11958.png",
+      "64": "64/11958.png"
+    }
+  },
+  "569": {
+    "teamId": 569,
+    "espnTeamId": "218",
+    "teamName": "Cruz Azul",
+    "files": {
+      "500": "500/218.png",
+      "128": "128/218.png",
+      "64": "64/218.png"
+    }
+  },
+  "99": {
+    "teamId": 99,
+    "espnTeamId": "2022",
+    "teamName": "Cruzeiro",
+    "files": {
+      "500": "500/2022.png",
+      "128": "128/2022.png",
+      "64": "64/2022.png"
+    }
+  },
+  "100": {
+    "teamId": 100,
+    "espnTeamId": "17313",
+    "teamName": "Cuiabá",
+    "files": {
+      "500": "500/17313.png",
+      "128": "128/17313.png",
+      "64": "64/17313.png"
+    }
+  },
+  "101": {
+    "teamId": 101,
+    "espnTeamId": "17365",
+    "teamName": "Curicó Unido",
+    "files": {
+      "500": "500/17365.png",
+      "128": "128/17365.png",
+      "64": "64/17365.png"
+    }
+  },
+  "102": {
+    "teamId": 102,
+    "espnTeamId": "11995",
+    "teamName": "Cusco FC",
+    "files": {
+      "500": "500/11995.png",
+      "128": "128/11995.png",
+      "64": "64/11995.png"
+    }
+  },
+  "104": {
+    "teamId": 104,
+    "espnTeamId": "4817",
+    "teamName": "Danubio",
+    "files": {
+      "500": "500/4817.png",
+      "128": "128/4817.png",
+      "64": "64/4817.png"
+    }
+  },
+  "105": {
+    "teamId": 105,
+    "espnTeamId": "8950",
+    "teamName": "Defensa y Justicia",
+    "files": {
+      "500": "500/8950.png",
+      "128": "128/8950.png",
+      "64": "64/8950.png"
+    }
+  },
+  "106": {
+    "teamId": 106,
+    "espnTeamId": "1007",
+    "teamName": "Defensor Sporting",
+    "files": {
+      "500": "500/1007.png",
+      "128": "128/1007.png",
+      "64": "64/1007.png"
+    }
+  },
+  "108": {
+    "teamId": 108,
+    "espnTeamId": "10151",
+    "teamName": "Defensores de Belgrano",
+    "files": {
+      "500": "500/10151.png",
+      "128": "128/10151.png",
+      "64": "64/10151.png"
+    }
+  },
+  "107": {
+    "teamId": 107,
+    "espnTeamId": "17697",
+    "teamName": "Defensores Unidos",
+    "files": {
+      "500": "500/17697.png",
+      "128": "128/17697.png",
+      "64": "64/17697.png"
+    }
+  },
+  "111": {
+    "teamId": 111,
+    "espnTeamId": "1011",
+    "teamName": "Delfín",
+    "files": {
+      "500": "500/1011.png",
+      "128": "128/1011.png",
+      "64": "64/1011.png"
+    }
+  },
+  "113": {
+    "teamId": 113,
+    "espnTeamId": "10142",
+    "teamName": "Deportes Iquique",
+    "files": {
+      "500": "500/10142.png",
+      "128": "128/10142.png",
+      "64": "64/10142.png"
+    }
+  },
+  "114": {
+    "teamId": 114,
+    "espnTeamId": "4128",
+    "teamName": "Deportes Temuco",
+    "files": {
+      "500": "500/4128.png",
+      "128": "128/4128.png",
+      "64": "64/4128.png"
+    }
+  },
+  "115": {
+    "teamId": 115,
+    "espnTeamId": "5489",
+    "teamName": "Deportes Tolima",
+    "files": {
+      "500": "500/5489.png",
+      "128": "128/5489.png",
+      "64": "64/5489.png"
+    }
+  },
+  "116": {
+    "teamId": 116,
+    "espnTeamId": "8203",
+    "teamName": "Deportivo Anzoátegui",
+    "files": {
+      "500": "500/8203.png",
+      "128": "128/8203.png",
+      "64": "64/8203.png"
+    }
+  },
+  "117": {
+    "teamId": 117,
+    "espnTeamId": "10152",
+    "teamName": "Deportivo Armenio",
+    "files": {
+      "500": "500/10152.png",
+      "128": "128/10152.png",
+      "64": "64/10152.png"
+    }
+  },
+  "118": {
+    "teamId": 118,
+    "espnTeamId": "18985",
+    "teamName": "Deportivo Binacional",
+    "files": {
+      "500": "500/18985.png",
+      "128": "128/18985.png",
+      "64": "64/18985.png"
+    }
+  },
+  "119": {
+    "teamId": 119,
+    "espnTeamId": "2672",
+    "teamName": "Deportivo Cali",
+    "files": {
+      "500": "500/2672.png",
+      "128": "128/2672.png",
+      "64": "64/2672.png"
+    }
+  },
+  "120": {
+    "teamId": 120,
+    "espnTeamId": "10853",
+    "teamName": "Deportivo Capiatá",
+    "files": {
+      "500": "500/10853.png",
+      "128": "128/10853.png",
+      "64": "64/10853.png"
+    }
+  },
+  "121": {
+    "teamId": 121,
+    "espnTeamId": "4812",
+    "teamName": "Deportivo Cuenca",
+    "files": {
+      "500": "500/4812.png",
+      "128": "128/4812.png",
+      "64": "64/4812.png"
+    }
+  },
+  "122": {
+    "teamId": 122,
+    "espnTeamId": "17701",
+    "teamName": "Deportivo Español",
+    "files": {
+      "500": "500/17701.png",
+      "128": "128/17701.png",
+      "64": "64/17701.png"
+    }
+  },
+  "123": {
+    "teamId": 123,
+    "espnTeamId": "21819",
+    "teamName": "Deportivo Garcilaso",
+    "files": {
+      "500": "500/21819.png",
+      "128": "128/21819.png",
+      "64": "64/21819.png"
+    }
+  },
+  "124": {
+    "teamId": 124,
+    "espnTeamId": "17090",
+    "teamName": "Deportivo La Guaira",
+    "files": {
+      "500": "500/17090.png",
+      "128": "128/17090.png",
+      "64": "64/17090.png"
+    }
+  },
+  "125": {
+    "teamId": 125,
+    "espnTeamId": "17695",
+    "teamName": "Deportivo Laferrere",
+    "files": {
+      "500": "500/17695.png",
+      "128": "128/17695.png",
+      "64": "64/17695.png"
+    }
+  },
+  "126": {
+    "teamId": 126,
+    "espnTeamId": "17092",
+    "teamName": "Deportivo Lara",
+    "files": {
+      "500": "500/17092.png",
+      "128": "128/17092.png",
+      "64": "64/17092.png"
+    }
+  },
+  "127": {
+    "teamId": 127,
+    "espnTeamId": "18260",
+    "teamName": "Deportivo Madryn",
+    "files": {
+      "500": "500/18260.png",
+      "128": "128/18260.png",
+      "64": "64/18260.png"
+    }
+  },
+  "128": {
+    "teamId": 128,
+    "espnTeamId": "11978",
+    "teamName": "Deportivo Maipú",
+    "files": {
+      "500": "500/11978.png",
+      "128": "128/11978.png",
+      "64": "64/11978.png"
+    }
+  },
+  "129": {
+    "teamId": 129,
+    "espnTeamId": "10000",
+    "teamName": "Deportivo Maldonado",
+    "files": {
+      "500": "500/10000.png",
+      "128": "128/10000.png",
+      "64": "64/10000.png"
+    }
+  },
+  "130": {
+    "teamId": 130,
+    "espnTeamId": "17704",
+    "teamName": "Deportivo Merlo",
+    "files": {
+      "500": "500/17704.png",
+      "128": "128/17704.png",
+      "64": "64/17704.png"
+    }
+  },
+  "131": {
+    "teamId": 131,
+    "espnTeamId": "10154",
+    "teamName": "Deportivo Morón",
+    "files": {
+      "500": "500/10154.png",
+      "128": "128/10154.png",
+      "64": "64/10154.png"
+    }
+  },
+  "132": {
+    "teamId": 132,
+    "espnTeamId": "7548",
+    "teamName": "Deportivo Municipal",
+    "files": {
+      "500": "500/7548.png",
+      "128": "128/7548.png",
+      "64": "64/7548.png"
+    }
+  },
+  "133": {
+    "teamId": 133,
+    "espnTeamId": "5485",
+    "teamName": "Deportivo Pasto",
+    "files": {
+      "500": "500/5485.png",
+      "128": "128/5485.png",
+      "64": "64/5485.png"
+    }
+  },
+  "134": {
+    "teamId": 134,
+    "espnTeamId": "5486",
+    "teamName": "Deportivo Pereira",
+    "files": {
+      "500": "500/5486.png",
+      "128": "128/5486.png",
+      "64": "64/5486.png"
+    }
+  },
+  "135": {
+    "teamId": 135,
+    "espnTeamId": "2089",
+    "teamName": "Deportivo Quito",
+    "files": {
+      "500": "500/2089.png",
+      "128": "128/2089.png",
+      "64": "64/2089.png"
+    }
+  },
+  "402": {
+    "teamId": 402,
+    "espnTeamId": "22517",
+    "teamName": "Deportivo Recoleta",
+    "files": {
+      "500": "500/22517.png",
+      "128": "128/22517.png",
+      "64": "64/22517.png"
+    }
+  },
+  "136": {
+    "teamId": 136,
+    "espnTeamId": "17702",
+    "teamName": "Deportivo Riestra",
+    "files": {
+      "500": "500/17702.png",
+      "128": "128/17702.png",
+      "64": "64/17702.png"
+    }
+  },
+  "138": {
+    "teamId": 138,
+    "espnTeamId": "10855",
+    "teamName": "Deportivo Santaní",
+    "files": {
+      "500": "500/10855.png",
+      "128": "128/10855.png",
+      "64": "64/10855.png"
+    }
+  },
+  "139": {
+    "teamId": 139,
+    "espnTeamId": "4818",
+    "teamName": "Deportivo Táchira",
+    "files": {
+      "500": "500/4818.png",
+      "128": "128/4818.png",
+      "64": "64/4818.png"
+    }
+  },
+  "140": {
+    "teamId": 140,
+    "espnTeamId": "10103",
+    "teamName": "Dock Sud",
+    "files": {
+      "500": "500/10103.png",
+      "128": "128/10103.png",
+      "64": "64/10103.png"
+    }
+  },
+  "141": {
+    "teamId": 141,
+    "espnTeamId": "11942",
+    "teamName": "Douglas Haig",
+    "files": {
+      "500": "500/11942.png",
+      "128": "128/11942.png",
+      "64": "64/11942.png"
+    }
+  },
+  "142": {
+    "teamId": 142,
+    "espnTeamId": "882",
+    "teamName": "El Nacional",
+    "files": {
+      "500": "500/882.png",
+      "128": "128/882.png",
+      "64": "64/882.png"
+    }
+  },
+  "143": {
+    "teamId": 143,
+    "espnTeamId": "10061",
+    "teamName": "El Porvenir",
+    "files": {
+      "500": "500/10061.png",
+      "128": "128/10061.png",
+      "64": "64/10061.png"
+    }
+  },
+  "803": {
+    "teamId": 803,
+    "espnTeamId": "10002",
+    "teamName": "El Tanque Sisley",
+    "files": {
+      "500": "500/10002.png",
+      "128": "128/10002.png",
+      "64": "64/10002.png"
+    }
+  },
+  "144": {
+    "teamId": 144,
+    "espnTeamId": "2668",
+    "teamName": "Emelec",
+    "files": {
+      "500": "500/2668.png",
+      "128": "128/2668.png",
+      "64": "64/2668.png"
+    }
+  },
+  "592": {
+    "teamId": 592,
+    "espnTeamId": "5481",
+    "teamName": "Envigado FC",
+    "files": {
+      "500": "500/5481.png",
+      "128": "128/5481.png",
+      "64": "64/5481.png"
+    }
+  },
+  "145": {
+    "teamId": 145,
+    "espnTeamId": "17352",
+    "teamName": "Estudiantes (Buenos Aires)",
+    "files": {
+      "500": "500/17352.png",
+      "128": "128/17352.png",
+      "64": "64/17352.png"
+    }
+  },
+  "146": {
+    "teamId": 146,
+    "espnTeamId": "13935",
+    "teamName": "Estudiantes (San Luis)",
+    "files": {
+      "500": "500/13935.png",
+      "128": "128/13935.png",
+      "64": "64/13935.png"
+    }
+  },
+  "147": {
+    "teamId": 147,
+    "espnTeamId": "17868",
+    "teamName": "Estudiantes de Caracas",
+    "files": {
+      "500": "500/17868.png",
+      "128": "128/17868.png",
+      "64": "64/17868.png"
+    }
+  },
+  "148": {
+    "teamId": 148,
+    "espnTeamId": "8",
+    "teamName": "Estudiantes de La Plata",
+    "files": {
+      "500": "500/8.png",
+      "128": "128/8.png",
+      "64": "64/8.png"
+    }
+  },
+  "149": {
+    "teamId": 149,
+    "espnTeamId": "6038",
+    "teamName": "Estudiantes de Mérida",
+    "files": {
+      "500": "500/6038.png",
+      "128": "128/6038.png",
+      "64": "64/6038.png"
+    }
+  },
+  "150": {
+    "teamId": 150,
+    "espnTeamId": "19685",
+    "teamName": "Estudiantes de Río Cuarto",
+    "files": {
+      "500": "500/19685.png",
+      "128": "128/19685.png",
+      "64": "64/19685.png"
+    }
+  },
+  "151": {
+    "teamId": 151,
+    "espnTeamId": "4129",
+    "teamName": "Everton CD",
+    "files": {
+      "500": "500/4129.png",
+      "128": "128/4129.png",
+      "64": "64/4129.png"
+    }
+  },
+  "152": {
+    "teamId": 152,
+    "espnTeamId": "10054",
+    "teamName": "Excursionistas",
+    "files": {
+      "500": "500/10054.png",
+      "128": "128/10054.png",
+      "64": "64/10054.png"
+    }
+  },
+  "160": {
+    "teamId": 160,
+    "espnTeamId": "2689",
+    "teamName": "Fénix ",
+    "files": {
+      "500": "500/2689.png",
+      "128": "128/2689.png",
+      "64": "64/2689.png"
+    }
+  },
+  "153": {
+    "teamId": 153,
+    "espnTeamId": "9743",
+    "teamName": "Ferro Carril Oeste",
+    "files": {
+      "500": "500/9743.png",
+      "128": "128/9743.png",
+      "64": "64/9743.png"
+    }
+  },
+  "154": {
+    "teamId": 154,
+    "espnTeamId": "3461",
+    "teamName": "Figueirense",
+    "files": {
+      "500": "500/3461.png",
+      "128": "128/3461.png",
+      "64": "64/3461.png"
+    }
+  },
+  "155": {
+    "teamId": 155,
+    "espnTeamId": "819",
+    "teamName": "Flamengo",
+    "files": {
+      "500": "500/819.png",
+      "128": "128/819.png",
+      "64": "64/819.png"
+    }
+  },
+  "156": {
+    "teamId": 156,
+    "espnTeamId": "10156",
+    "teamName": "Flandria",
+    "files": {
+      "500": "500/10156.png",
+      "128": "128/10156.png",
+      "64": "64/10156.png"
+    }
+  },
+  "157": {
+    "teamId": 157,
+    "espnTeamId": "3445",
+    "teamName": "Fluminense",
+    "files": {
+      "500": "500/3445.png",
+      "128": "128/3445.png",
+      "64": "64/3445.png"
+    }
+  },
+  "158": {
+    "teamId": 158,
+    "espnTeamId": "6272",
+    "teamName": "Fortaleza",
+    "files": {
+      "500": "500/6272.png",
+      "128": "128/6272.png",
+      "64": "64/6272.png"
+    }
+  },
+  "159": {
+    "teamId": 159,
+    "espnTeamId": "18157",
+    "teamName": "Fuerza Amarilla",
+    "files": {
+      "500": "500/18157.png",
+      "128": "128/18157.png",
+      "64": "64/18157.png"
+    }
+  },
+  "162": {
+    "teamId": 162,
+    "espnTeamId": "21316",
+    "teamName": "General Caballero JLM",
+    "files": {
+      "500": "500/21316.png",
+      "128": "128/21316.png",
+      "64": "64/21316.png"
+    }
+  },
+  "163": {
+    "teamId": 163,
+    "espnTeamId": "10078",
+    "teamName": "General Díaz",
+    "files": {
+      "500": "500/10078.png",
+      "128": "128/10078.png",
+      "64": "64/10078.png"
+    }
+  },
+  "164": {
+    "teamId": 164,
+    "espnTeamId": "17699",
+    "teamName": "General Lamadrid",
+    "files": {
+      "500": "500/17699.png",
+      "128": "128/17699.png",
+      "64": "64/17699.png"
+    }
+  },
+  "165": {
+    "teamId": 165,
+    "espnTeamId": "11972",
+    "teamName": "Gimnasia (Mendoza)",
+    "files": {
+      "500": "500/11972.png",
+      "128": "128/11972.png",
+      "64": "64/11972.png"
+    }
+  },
+  "166": {
+    "teamId": 166,
+    "espnTeamId": "9",
+    "teamName": "Gimnasia La Plata",
+    "files": {
+      "500": "500/9.png",
+      "128": "128/9.png",
+      "64": "64/9.png"
+    }
+  },
+  "167": {
+    "teamId": 167,
+    "espnTeamId": "5263",
+    "teamName": "Gimnasia y Esgrima (Jujuy)",
+    "files": {
+      "500": "500/5263.png",
+      "128": "128/5263.png",
+      "64": "64/5263.png"
+    }
+  },
+  "168": {
+    "teamId": 168,
+    "espnTeamId": "10743",
+    "teamName": "Gimnasia y Tiro (Salta)",
+    "files": {
+      "500": "500/10743.png",
+      "128": "128/10743.png",
+      "64": "64/10743.png"
+    }
+  },
+  "169": {
+    "teamId": 169,
+    "espnTeamId": "6756",
+    "teamName": "Godoy Cruz Antonio Tomba",
+    "files": {
+      "500": "500/6756.png",
+      "128": "128/6756.png",
+      "64": "64/6756.png"
+    }
+  },
+  "170": {
+    "teamId": 170,
+    "espnTeamId": "3395",
+    "teamName": "Goiás",
+    "files": {
+      "500": "500/3395.png",
+      "128": "128/3395.png",
+      "64": "64/3395.png"
+    }
+  },
+  "171": {
+    "teamId": 171,
+    "espnTeamId": "6273",
+    "teamName": "Grêmio",
+    "files": {
+      "500": "500/6273.png",
+      "128": "128/6273.png",
+      "64": "64/6273.png"
+    }
+  },
+  "172": {
+    "teamId": 172,
+    "espnTeamId": "9497",
+    "teamName": "Guabirá",
+    "files": {
+      "500": "500/9497.png",
+      "128": "128/9497.png",
+      "64": "64/9497.png"
+    }
+  },
+  "615": {
+    "teamId": 615,
+    "espnTeamId": "219",
+    "teamName": "Guadalajara",
+    "files": {
+      "500": "500/219.png",
+      "128": "128/219.png",
+      "64": "64/219.png"
+    }
+  },
+  "173": {
+    "teamId": 173,
+    "espnTeamId": "20292",
+    "teamName": "Guaireña",
+    "files": {
+      "500": "500/20292.png",
+      "128": "128/20292.png",
+      "64": "64/20292.png"
+    }
+  },
+  "174": {
+    "teamId": 174,
+    "espnTeamId": "7385",
+    "teamName": "Guaraní",
+    "files": {
+      "500": "500/7385.png",
+      "128": "128/7385.png",
+      "64": "64/7385.png"
+    }
+  },
+  "175": {
+    "teamId": 175,
+    "espnTeamId": "17524",
+    "teamName": "Guaraní A. Franco",
+    "files": {
+      "500": "500/17524.png",
+      "128": "128/17524.png",
+      "64": "64/17524.png"
+    }
+  },
+  "176": {
+    "teamId": 176,
+    "espnTeamId": "11124",
+    "teamName": "Guayaquil City FC",
+    "files": {
+      "500": "500/11124.png",
+      "128": "128/11124.png",
+      "64": "64/11124.png"
+    }
+  },
+  "178": {
+    "teamId": 178,
+    "espnTeamId": "18284",
+    "teamName": "Güemes",
+    "files": {
+      "500": "500/18284.png",
+      "128": "128/18284.png",
+      "64": "64/18284.png"
+    }
+  },
+  "177": {
+    "teamId": 177,
+    "espnTeamId": "11674",
+    "teamName": "Guillermo Brown",
+    "files": {
+      "500": "500/11674.png",
+      "128": "128/11674.png",
+      "64": "64/11674.png"
+    }
+  },
+  "161": {
+    "teamId": 161,
+    "espnTeamId": "22174",
+    "teamName": "GV San José",
+    "files": {
+      "500": "500/22174.png",
+      "128": "128/22174.png",
+      "64": "64/22174.png"
+    }
+  },
+  "179": {
+    "teamId": 179,
+    "espnTeamId": "4134",
+    "teamName": "Huachipato",
+    "files": {
+      "500": "500/4134.png",
+      "128": "128/4134.png",
+      "64": "64/4134.png"
+    }
+  },
+  "180": {
+    "teamId": 180,
+    "espnTeamId": "10",
+    "teamName": "Huracán",
+    "files": {
+      "500": "500/10.png",
+      "128": "128/10.png",
+      "64": "64/10.png"
+    }
+  },
+  "182": {
+    "teamId": 182,
+    "espnTeamId": "11",
+    "teamName": "Independiente",
+    "files": {
+      "500": "500/11.png",
+      "128": "128/11.png",
+      "64": "64/11.png"
+    }
+  },
+  "189": {
+    "teamId": 189,
+    "espnTeamId": "17086",
+    "teamName": "Independiente del Valle",
+    "files": {
+      "500": "500/17086.png",
+      "128": "128/17086.png",
+      "64": "64/17086.png"
+    }
+  },
+  "183": {
+    "teamId": 183,
+    "espnTeamId": "18417",
+    "teamName": "Independiente FBC",
+    "files": {
+      "500": "500/18417.png",
+      "128": "128/18417.png",
+      "64": "64/18417.png"
+    }
+  },
+  "184": {
+    "teamId": 184,
+    "espnTeamId": "2690",
+    "teamName": "Independiente Medellín",
+    "files": {
+      "500": "500/2690.png",
+      "128": "128/2690.png",
+      "64": "64/2690.png"
+    }
+  },
+  "185": {
+    "teamId": 185,
+    "espnTeamId": "20889",
+    "teamName": "Independiente Petrolero",
+    "files": {
+      "500": "500/20889.png",
+      "128": "128/20889.png",
+      "64": "64/20889.png"
+    }
+  },
+  "186": {
+    "teamId": 186,
+    "espnTeamId": "9744",
+    "teamName": "Independiente Rivadavia",
+    "files": {
+      "500": "500/9744.png",
+      "128": "128/9744.png",
+      "64": "64/9744.png"
+    }
+  },
+  "187": {
+    "teamId": 187,
+    "espnTeamId": "5488",
+    "teamName": "Independiente Santa Fe",
+    "files": {
+      "500": "500/5488.png",
+      "128": "128/5488.png",
+      "64": "64/5488.png"
+    }
+  },
+  "190": {
+    "teamId": 190,
+    "espnTeamId": "2975",
+    "teamName": "Instituto (Córdoba)",
+    "files": {
+      "500": "500/2975.png",
+      "128": "128/2975.png",
+      "64": "64/2975.png"
+    }
+  },
+  "191": {
+    "teamId": 191,
+    "espnTeamId": "20887",
+    "teamName": "Inter de Barinas",
+    "files": {
+      "500": "500/20887.png",
+      "128": "128/20887.png",
+      "64": "64/20887.png"
+    }
+  },
+  "192": {
+    "teamId": 192,
+    "espnTeamId": "1936",
+    "teamName": "Internacional",
+    "files": {
+      "500": "500/1936.png",
+      "128": "128/1936.png",
+      "64": "64/1936.png"
+    }
+  },
+  "193": {
+    "teamId": 193,
+    "espnTeamId": "7445",
+    "teamName": "Internacional de Bogotá",
+    "files": {
+      "500": "500/7445.png",
+      "128": "128/7445.png",
+      "64": "64/7445.png"
+    }
+  },
+  "194": {
+    "teamId": 194,
+    "espnTeamId": "10105",
+    "teamName": "Ituzaingó",
+    "files": {
+      "500": "500/10105.png",
+      "128": "128/10105.png",
+      "64": "64/10105.png"
+    }
+  },
+  "196": {
+    "teamId": 196,
+    "espnTeamId": "10309",
+    "teamName": "Jaguares de Córdoba",
+    "files": {
+      "500": "500/10309.png",
+      "128": "128/10309.png",
+      "64": "64/10309.png"
+    }
+  },
+  "195": {
+    "teamId": 195,
+    "espnTeamId": "17696",
+    "teamName": "JJ Urquiza",
+    "files": {
+      "500": "500/17696.png",
+      "128": "128/17696.png",
+      "64": "64/17696.png"
+    }
+  },
+  "197": {
+    "teamId": 197,
+    "espnTeamId": "13143",
+    "teamName": "Joinville",
+    "files": {
+      "500": "500/13143.png",
+      "128": "128/13143.png",
+      "64": "64/13143.png"
+    }
+  },
+  "198": {
+    "teamId": 198,
+    "espnTeamId": "9446",
+    "teamName": "Juan Aurich",
+    "files": {
+      "500": "500/9446.png",
+      "128": "128/9446.png",
+      "64": "64/9446.png"
+    }
+  },
+  "199": {
+    "teamId": 199,
+    "espnTeamId": "8416",
+    "teamName": "Juventud",
+    "files": {
+      "500": "500/8416.png",
+      "128": "128/8416.png",
+      "64": "64/8416.png"
+    }
+  },
+  "201": {
+    "teamId": 201,
+    "espnTeamId": "11948",
+    "teamName": "Juventud Unida (Gualeguaychú)",
+    "files": {
+      "500": "500/11948.png",
+      "128": "128/11948.png",
+      "64": "64/11948.png"
+    }
+  },
+  "202": {
+    "teamId": 202,
+    "espnTeamId": "17351",
+    "teamName": "Juventud Unida Universitario",
+    "files": {
+      "500": "500/17351.png",
+      "128": "128/17351.png",
+      "64": "64/17351.png"
+    }
+  },
+  "830": {
+    "teamId": 830,
+    "espnTeamId": "6270",
+    "teamName": "Juventude",
+    "files": {
+      "500": "500/6270.png",
+      "128": "128/6270.png",
+      "64": "64/6270.png"
+    }
+  },
+  "205": {
+    "teamId": 205,
+    "espnTeamId": "12",
+    "teamName": "Lanús",
+    "files": {
+      "500": "500/12.png",
+      "128": "128/12.png",
+      "64": "64/12.png"
+    }
+  },
+  "206": {
+    "teamId": 206,
+    "espnTeamId": "17708",
+    "teamName": "Leandro N. Alem",
+    "files": {
+      "500": "500/17708.png",
+      "128": "128/17708.png",
+      "64": "64/17708.png"
+    }
+  },
+  "207": {
+    "teamId": 207,
+    "espnTeamId": "228",
+    "teamName": "León",
+    "files": {
+      "500": "500/228.png",
+      "128": "128/228.png",
+      "64": "64/228.png"
+    }
+  },
+  "208": {
+    "teamId": 208,
+    "espnTeamId": "10760",
+    "teamName": "León de Huánuco",
+    "files": {
+      "500": "500/10760.png",
+      "128": "128/10760.png",
+      "64": "64/10760.png"
+    }
+  },
+  "209": {
+    "teamId": 209,
+    "espnTeamId": "2670",
+    "teamName": "Libertad",
+    "files": {
+      "500": "500/2670.png",
+      "128": "128/2670.png",
+      "64": "64/2670.png"
+    }
+  },
+  "433": {
+    "teamId": 433,
+    "espnTeamId": "21843",
+    "teamName": "Libertad (Ecuador)",
+    "files": {
+      "500": "500/21843.png",
+      "128": "128/21843.png",
+      "64": "64/21843.png"
+    }
+  },
+  "211": {
+    "teamId": 211,
+    "espnTeamId": "4816",
+    "teamName": "Liga de Quito",
+    "files": {
+      "500": "500/4816.png",
+      "128": "128/4816.png",
+      "64": "64/4816.png"
+    }
+  },
+  "212": {
+    "teamId": 212,
+    "espnTeamId": "10107",
+    "teamName": "Liniers",
+    "files": {
+      "500": "500/10107.png",
+      "128": "128/10107.png",
+      "64": "64/10107.png"
+    }
+  },
+  "214": {
+    "teamId": 214,
+    "espnTeamId": "5492",
+    "teamName": "Liverpool",
+    "files": {
+      "500": "500/5492.png",
+      "128": "128/5492.png",
+      "64": "64/5492.png"
+    }
+  },
+  "215": {
+    "teamId": 215,
+    "espnTeamId": "19152",
+    "teamName": "Llaneros",
+    "files": {
+      "500": "500/19152.png",
+      "128": "128/19152.png",
+      "64": "64/19152.png"
+    }
+  },
+  "216": {
+    "teamId": 216,
+    "espnTeamId": "13",
+    "teamName": "Los Andes",
+    "files": {
+      "500": "500/13.png",
+      "128": "128/13.png",
+      "64": "64/13.png"
+    }
+  },
+  "217": {
+    "teamId": 217,
+    "espnTeamId": "6499",
+    "teamName": "Luján",
+    "files": {
+      "500": "500/6499.png",
+      "128": "128/6499.png",
+      "64": "64/6499.png"
+    }
+  },
+  "218": {
+    "teamId": 218,
+    "espnTeamId": "18439",
+    "teamName": "Macará",
+    "files": {
+      "500": "500/18439.png",
+      "128": "128/18439.png",
+      "64": "64/18439.png"
+    }
+  },
+  "219": {
+    "teamId": 219,
+    "espnTeamId": "17363",
+    "teamName": "Magallanes",
+    "files": {
+      "500": "500/17363.png",
+      "128": "128/17363.png",
+      "64": "64/17363.png"
+    }
+  },
+  "220": {
+    "teamId": 220,
+    "espnTeamId": "7312",
+    "teamName": "Melgar",
+    "files": {
+      "500": "500/7312.png",
+      "128": "128/7312.png",
+      "64": "64/7312.png"
+    }
+  },
+  "837": {
+    "teamId": 837,
+    "espnTeamId": "5568",
+    "teamName": "Melgar FBC",
+    "files": {
+      "500": "500/5568.png",
+      "128": "128/5568.png",
+      "64": "64/5568.png"
+    }
+  },
+  "221": {
+    "teamId": 221,
+    "espnTeamId": "13481",
+    "teamName": "Metropolitanos",
+    "files": {
+      "500": "500/13481.png",
+      "128": "128/13481.png",
+      "64": "64/13481.png"
+    }
+  },
+  "222": {
+    "teamId": 222,
+    "espnTeamId": "10109",
+    "teamName": "Midland",
+    "files": {
+      "500": "500/10109.png",
+      "128": "128/10109.png",
+      "64": "64/10109.png"
+    }
+  },
+  "223": {
+    "teamId": 223,
+    "espnTeamId": "5484",
+    "teamName": "Millonarios",
+    "files": {
+      "500": "500/5484.png",
+      "128": "128/5484.png",
+      "64": "64/5484.png"
+    }
+  },
+  "224": {
+    "teamId": 224,
+    "espnTeamId": "17093",
+    "teamName": "Mineros de Guayana",
+    "files": {
+      "500": "500/17093.png",
+      "128": "128/17093.png",
+      "64": "64/17093.png"
+    }
+  },
+  "441": {
+    "teamId": 441,
+    "espnTeamId": "9169",
+    "teamName": "Mirassol",
+    "files": {
+      "500": "500/9169.png",
+      "128": "128/9169.png",
+      "64": "64/9169.png"
+    }
+  },
+  "225": {
+    "teamId": 225,
+    "espnTeamId": "11990",
+    "teamName": "Mitre (Santiago del Estero)",
+    "files": {
+      "500": "500/11990.png",
+      "128": "128/11990.png",
+      "64": "64/11990.png"
+    }
+  },
+  "226": {
+    "teamId": 226,
+    "espnTeamId": "6041",
+    "teamName": "Monagas SC",
+    "files": {
+      "500": "500/6041.png",
+      "128": "128/6041.png",
+      "64": "64/6041.png"
+    }
+  },
+  "227": {
+    "teamId": 227,
+    "espnTeamId": "19002",
+    "teamName": "Montevideo City Torque",
+    "files": {
+      "500": "500/19002.png",
+      "128": "128/19002.png",
+      "64": "64/19002.png"
+    }
+  },
+  "228": {
+    "teamId": 228,
+    "espnTeamId": "5501",
+    "teamName": "Montevideo Wanderers",
+    "files": {
+      "500": "500/5501.png",
+      "128": "128/5501.png",
+      "64": "64/5501.png"
+    }
+  },
+  "229": {
+    "teamId": 229,
+    "espnTeamId": "17176",
+    "teamName": "Mushuc Runa",
+    "files": {
+      "500": "500/17176.png",
+      "128": "128/17176.png",
+      "64": "64/17176.png"
+    }
+  },
+  "230": {
+    "teamId": 230,
+    "espnTeamId": "2684",
+    "teamName": "Nacional",
+    "files": {
+      "500": "500/2684.png",
+      "128": "128/2684.png",
+      "64": "64/2684.png"
+    }
+  },
+  "231": {
+    "teamId": 231,
+    "espnTeamId": "5584",
+    "teamName": "Nacional Asunción",
+    "files": {
+      "500": "500/5584.png",
+      "128": "128/5584.png",
+      "64": "64/5584.png"
+    }
+  },
+  "232": {
+    "teamId": 232,
+    "espnTeamId": "10311",
+    "teamName": "Nacional Potosí",
+    "files": {
+      "500": "500/10311.png",
+      "128": "128/10311.png",
+      "64": "64/10311.png"
+    }
+  },
+  "846": {
+    "teamId": 846,
+    "espnTeamId": "7633",
+    "teamName": "Náutico",
+    "files": {
+      "500": "500/7633.png",
+      "128": "128/7633.png",
+      "64": "64/7633.png"
+    }
+  },
+  "233": {
+    "teamId": 233,
+    "espnTeamId": "14",
+    "teamName": "Newell's Old Boys",
+    "files": {
+      "500": "500/14.png",
+      "128": "128/14.png",
+      "64": "64/14.png"
+    }
+  },
+  "844": {
+    "teamId": 844,
+    "espnTeamId": "7388",
+    "teamName": "Novo Hamburgo",
+    "files": {
+      "500": "500/7388.png",
+      "128": "128/7388.png",
+      "64": "64/7388.png"
+    }
+  },
+  "346": {
+    "teamId": 346,
+    "espnTeamId": "7427",
+    "teamName": "Ñublense",
+    "files": {
+      "500": "500/7427.png",
+      "128": "128/7427.png",
+      "64": "64/7427.png"
+    }
+  },
+  "234": {
+    "teamId": 234,
+    "espnTeamId": "236",
+    "teamName": "Nueva Chicago",
+    "files": {
+      "500": "500/236.png",
+      "128": "128/236.png",
+      "64": "64/236.png"
+    }
+  },
+  "235": {
+    "teamId": 235,
+    "espnTeamId": "6072",
+    "teamName": "O'Higgins",
+    "files": {
+      "500": "500/6072.png",
+      "128": "128/6072.png",
+      "64": "64/6072.png"
+    }
+  },
+  "236": {
+    "teamId": 236,
+    "espnTeamId": "2636",
+    "teamName": "Olimpo",
+    "files": {
+      "500": "500/2636.png",
+      "128": "128/2636.png",
+      "64": "64/2636.png"
+    }
+  },
+  "237": {
+    "teamId": 237,
+    "espnTeamId": "2919",
+    "teamName": "Once Caldas",
+    "files": {
+      "500": "500/2919.png",
+      "128": "128/2919.png",
+      "64": "64/2919.png"
+    }
+  },
+  "238": {
+    "teamId": 238,
+    "espnTeamId": "20695",
+    "teamName": "Orense",
+    "files": {
+      "500": "500/20695.png",
+      "128": "128/20695.png",
+      "64": "64/20695.png"
+    }
+  },
+  "239": {
+    "teamId": 239,
+    "espnTeamId": "2682",
+    "teamName": "Oriente Petrolero",
+    "files": {
+      "500": "500/2682.png",
+      "128": "128/2682.png",
+      "64": "64/2682.png"
+    }
+  },
+  "240": {
+    "teamId": 240,
+    "espnTeamId": "4422",
+    "teamName": "Palestino",
+    "files": {
+      "500": "500/4422.png",
+      "128": "128/4422.png",
+      "64": "64/4422.png"
+    }
+  },
+  "241": {
+    "teamId": 241,
+    "espnTeamId": "2029",
+    "teamName": "Palmeiras",
+    "files": {
+      "500": "500/2029.png",
+      "128": "128/2029.png",
+      "64": "64/2029.png"
+    }
+  },
+  "850": {
+    "teamId": 850,
+    "espnTeamId": "14755",
+    "teamName": "Passo Fundo",
+    "files": {
+      "500": "500/14755.png",
+      "128": "128/14755.png",
+      "64": "64/14755.png"
+    }
+  },
+  "242": {
+    "teamId": 242,
+    "espnTeamId": "9773",
+    "teamName": "Patriotas",
+    "files": {
+      "500": "500/9773.png",
+      "128": "128/9773.png",
+      "64": "64/9773.png"
+    }
+  },
+  "243": {
+    "teamId": 243,
+    "espnTeamId": "10374",
+    "teamName": "Patronato",
+    "files": {
+      "500": "500/10374.png",
+      "128": "128/10374.png",
+      "64": "64/10374.png"
+    }
+  },
+  "244": {
+    "teamId": 244,
+    "espnTeamId": "2683",
+    "teamName": "Peñarol",
+    "files": {
+      "500": "500/2683.png",
+      "128": "128/2683.png",
+      "64": "64/2683.png"
+    }
+  },
+  "245": {
+    "teamId": 245,
+    "espnTeamId": "7764",
+    "teamName": "Platense",
+    "files": {
+      "500": "500/7764.png",
+      "128": "128/7764.png",
+      "64": "64/7764.png"
+    }
+  },
+  "246": {
+    "teamId": 246,
+    "espnTeamId": "5495",
+    "teamName": "Plaza Colonia",
+    "files": {
+      "500": "500/5495.png",
+      "128": "128/5495.png",
+      "64": "64/5495.png"
+    }
+  },
+  "247": {
+    "teamId": 247,
+    "espnTeamId": "3459",
+    "teamName": "Ponte Preta",
+    "files": {
+      "500": "500/3459.png",
+      "128": "128/3459.png",
+      "64": "64/3459.png"
+    }
+  },
+  "856": {
+    "teamId": 856,
+    "espnTeamId": "4773",
+    "teamName": "Portuguesa",
+    "files": {
+      "500": "500/4773.png",
+      "128": "128/4773.png",
+      "64": "64/4773.png"
+    }
+  },
+  "248": {
+    "teamId": 248,
+    "espnTeamId": "6762",
+    "teamName": "Portuguesa",
+    "files": {
+      "500": "500/6762.png",
+      "128": "128/6762.png",
+      "64": "64/6762.png"
+    }
+  },
+  "249": {
+    "teamId": 249,
+    "espnTeamId": "6866",
+    "teamName": "Progreso",
+    "files": {
+      "500": "500/6866.png",
+      "128": "128/6866.png",
+      "64": "64/6866.png"
+    }
+  },
+  "250": {
+    "teamId": 250,
+    "espnTeamId": "231",
+    "teamName": "Puebla",
+    "files": {
+      "500": "500/231.png",
+      "128": "128/231.png",
+      "64": "64/231.png"
+    }
+  },
+  "251": {
+    "teamId": 251,
+    "espnTeamId": "10111",
+    "teamName": "Puerto Nuevo",
+    "files": {
+      "500": "500/10111.png",
+      "128": "128/10111.png",
+      "64": "64/10111.png"
+    }
+  },
+  "252": {
+    "teamId": 252,
+    "espnTeamId": "233",
+    "teamName": "Pumas UNAM",
+    "files": {
+      "500": "500/233.png",
+      "128": "128/233.png",
+      "64": "64/233.png"
+    }
+  },
+  "253": {
+    "teamId": 253,
+    "espnTeamId": "2741",
+    "teamName": "Quilmes",
+    "files": {
+      "500": "500/2741.png",
+      "128": "128/2741.png",
+      "64": "64/2741.png"
+    }
+  },
+  "254": {
+    "teamId": 254,
+    "espnTeamId": "19145",
+    "teamName": "Racing (Córdoba)",
+    "files": {
+      "500": "500/19145.png",
+      "128": "128/19145.png",
+      "64": "64/19145.png"
+    }
+  },
+  "255": {
+    "teamId": 255,
+    "espnTeamId": "9903",
+    "teamName": "Racing (Montevideo)",
+    "files": {
+      "500": "500/9903.png",
+      "128": "128/9903.png",
+      "64": "64/9903.png"
+    }
+  },
+  "256": {
+    "teamId": 256,
+    "espnTeamId": "15",
+    "teamName": "Racing Club",
+    "files": {
+      "500": "500/15.png",
+      "128": "128/15.png",
+      "64": "64/15.png"
+    }
+  },
+  "257": {
+    "teamId": 257,
+    "espnTeamId": "5496",
+    "teamName": "Rampla Juniors",
+    "files": {
+      "500": "500/5496.png",
+      "128": "128/5496.png",
+      "64": "64/5496.png"
+    }
+  },
+  "258": {
+    "teamId": 258,
+    "espnTeamId": "21850",
+    "teamName": "Rayo Zuliano",
+    "files": {
+      "500": "500/21850.png",
+      "128": "128/21850.png",
+      "64": "64/21850.png"
+    }
+  },
+  "259": {
+    "teamId": 259,
+    "espnTeamId": "18844",
+    "teamName": "Real Pilar",
+    "files": {
+      "500": "500/18844.png",
+      "128": "128/18844.png",
+      "64": "64/18844.png"
+    }
+  },
+  "260": {
+    "teamId": 260,
+    "espnTeamId": "6051",
+    "teamName": "Real Potosí",
+    "files": {
+      "500": "500/6051.png",
+      "128": "128/6051.png",
+      "64": "64/6051.png"
+    }
+  },
+  "261": {
+    "teamId": 261,
+    "espnTeamId": "20890",
+    "teamName": "Real Tomayapo",
+    "files": {
+      "500": "500/20890.png",
+      "128": "128/20890.png",
+      "64": "64/20890.png"
+    }
+  },
+  "262": {
+    "teamId": 262,
+    "espnTeamId": "6079",
+    "teamName": "Red Bull Bragantino",
+    "files": {
+      "500": "500/6079.png",
+      "128": "128/6079.png",
+      "64": "64/6079.png"
+    }
+  },
+  "263": {
+    "teamId": 263,
+    "espnTeamId": "5497",
+    "teamName": "Rentistas",
+    "files": {
+      "500": "500/5497.png",
+      "128": "128/5497.png",
+      "64": "64/5497.png"
+    }
+  },
+  "264": {
+    "teamId": 264,
+    "espnTeamId": "16",
+    "teamName": "River Plate",
+    "files": {
+      "500": "500/16.png",
+      "128": "128/16.png",
+      "64": "64/16.png"
+    }
+  },
+  "265": {
+    "teamId": 265,
+    "espnTeamId": "5498",
+    "teamName": "River Plate",
+    "files": {
+      "500": "500/5498.png",
+      "128": "128/5498.png",
+      "64": "64/5498.png"
+    }
+  },
+  "266": {
+    "teamId": 266,
+    "espnTeamId": "18136",
+    "teamName": "River Plate (Asunción)",
+    "files": {
+      "500": "500/18136.png",
+      "128": "128/18136.png",
+      "64": "64/18136.png"
+    }
+  },
+  "267": {
+    "teamId": 267,
+    "espnTeamId": "17",
+    "teamName": "Rosario Central",
+    "files": {
+      "500": "500/17.png",
+      "128": "128/17.png",
+      "64": "64/17.png"
+    }
+  },
+  "268": {
+    "teamId": 268,
+    "espnTeamId": "18984",
+    "teamName": "Royal Pari",
+    "files": {
+      "500": "500/18984.png",
+      "128": "128/18984.png",
+      "64": "64/18984.png"
+    }
+  },
+  "269": {
+    "teamId": 269,
+    "espnTeamId": "10051",
+    "teamName": "Sacachispas",
+    "files": {
+      "500": "500/10051.png",
+      "128": "128/10051.png",
+      "64": "64/10051.png"
+    }
+  },
+  "270": {
+    "teamId": 270,
+    "espnTeamId": "22137",
+    "teamName": "San Antonio Bulo Bulo",
+    "files": {
+      "500": "500/22137.png",
+      "128": "128/22137.png",
+      "64": "64/22137.png"
+    }
+  },
+  "271": {
+    "teamId": 271,
+    "espnTeamId": "6052",
+    "teamName": "San José",
+    "files": {
+      "500": "500/6052.png",
+      "128": "128/6052.png",
+      "64": "64/6052.png"
+    }
+  },
+  "272": {
+    "teamId": 272,
+    "espnTeamId": "18",
+    "teamName": "San Lorenzo",
+    "files": {
+      "500": "500/18.png",
+      "128": "128/18.png",
+      "64": "64/18.png"
+    }
+  },
+  "691": {
+    "teamId": 691,
+    "espnTeamId": "3359",
+    "teamName": "San Martin",
+    "files": {
+      "500": "500/3359.png",
+      "128": "128/3359.png",
+      "64": "64/3359.png"
+    }
+  },
+  "273": {
+    "teamId": 273,
+    "espnTeamId": "17692",
+    "teamName": "San Martín (Burzaco)",
+    "files": {
+      "500": "500/17692.png",
+      "128": "128/17692.png",
+      "64": "64/17692.png"
+    }
+  },
+  "274": {
+    "teamId": 274,
+    "espnTeamId": "7845",
+    "teamName": "San Martín (San Juan)",
+    "files": {
+      "500": "500/7845.png",
+      "128": "128/7845.png",
+      "64": "64/7845.png"
+    }
+  },
+  "275": {
+    "teamId": 275,
+    "espnTeamId": "17814",
+    "teamName": "San Martín (Tucumán)",
+    "files": {
+      "500": "500/17814.png",
+      "128": "128/17814.png",
+      "64": "64/17814.png"
+    }
+  },
+  "277": {
+    "teamId": 277,
+    "espnTeamId": "10058",
+    "teamName": "San Miguel",
+    "files": {
+      "500": "500/10058.png",
+      "128": "128/10058.png",
+      "64": "64/10058.png"
+    }
+  },
+  "278": {
+    "teamId": 278,
+    "espnTeamId": "10157",
+    "teamName": "San Telmo",
+    "files": {
+      "500": "500/10157.png",
+      "128": "128/10157.png",
+      "64": "64/10157.png"
+    }
+  },
+  "280": {
+    "teamId": 280,
+    "espnTeamId": "4929",
+    "teamName": "Santa Cruz",
+    "files": {
+      "500": "500/4929.png",
+      "128": "128/4929.png",
+      "64": "64/4929.png"
+    }
+  },
+  "281": {
+    "teamId": 281,
+    "espnTeamId": "10996",
+    "teamName": "Santamarina",
+    "files": {
+      "500": "500/10996.png",
+      "128": "128/10996.png",
+      "64": "64/10996.png"
+    }
+  },
+  "282": {
+    "teamId": 282,
+    "espnTeamId": "3552",
+    "teamName": "Santiago Wanderers",
+    "files": {
+      "500": "500/3552.png",
+      "128": "128/3552.png",
+      "64": "64/3552.png"
+    }
+  },
+  "284": {
+    "teamId": 284,
+    "espnTeamId": "225",
+    "teamName": "Santos",
+    "files": {
+      "500": "500/225.png",
+      "128": "128/225.png",
+      "64": "64/225.png"
+    }
+  },
+  "283": {
+    "teamId": 283,
+    "espnTeamId": "2674",
+    "teamName": "Santos",
+    "files": {
+      "500": "500/2674.png",
+      "128": "128/2674.png",
+      "64": "64/2674.png"
+    }
+  },
+  "876": {
+    "teamId": 876,
+    "espnTeamId": "7391",
+    "teamName": "São Luiz-RS",
+    "files": {
+      "500": "500/7391.png",
+      "128": "128/7391.png",
+      "64": "64/7391.png"
+    }
+  },
+  "305": {
+    "teamId": 305,
+    "espnTeamId": "2026",
+    "teamName": "São Paulo",
+    "files": {
+      "500": "500/2026.png",
+      "128": "128/2026.png",
+      "64": "64/2026.png"
+    }
+  },
+  "285": {
+    "teamId": 285,
+    "espnTeamId": "10158",
+    "teamName": "Sarmiento (Junín)",
+    "files": {
+      "500": "500/10158.png",
+      "128": "128/10158.png",
+      "64": "64/10158.png"
+    }
+  },
+  "289": {
+    "teamId": 289,
+    "espnTeamId": "7465",
+    "teamName": "Sol de América",
+    "files": {
+      "500": "500/7465.png",
+      "128": "128/7465.png",
+      "64": "64/7465.png"
+    }
+  },
+  "291": {
+    "teamId": 291,
+    "espnTeamId": "11991",
+    "teamName": "Sp. Belgrano",
+    "files": {
+      "500": "500/11991.png",
+      "128": "128/11991.png",
+      "64": "64/11991.png"
+    }
+  },
+  "292": {
+    "teamId": 292,
+    "espnTeamId": "7635",
+    "teamName": "Sport",
+    "files": {
+      "500": "500/7635.png",
+      "128": "128/7635.png",
+      "64": "64/7635.png"
+    }
+  },
+  "293": {
+    "teamId": 293,
+    "espnTeamId": "5570",
+    "teamName": "Sport Boys",
+    "files": {
+      "500": "500/5570.png",
+      "128": "128/5570.png",
+      "64": "64/5570.png"
+    }
+  },
+  "294": {
+    "teamId": 294,
+    "espnTeamId": "15513",
+    "teamName": "Sport Boys Warnes",
+    "files": {
+      "500": "500/15513.png",
+      "128": "128/15513.png",
+      "64": "64/15513.png"
+    }
+  },
+  "295": {
+    "teamId": 295,
+    "espnTeamId": "10318",
+    "teamName": "Sport Huancayo",
+    "files": {
+      "500": "500/10318.png",
+      "128": "128/10318.png",
+      "64": "64/10318.png"
+    }
+  },
+  "296": {
+    "teamId": 296,
+    "espnTeamId": "18441",
+    "teamName": "Sport Rosario",
+    "files": {
+      "500": "500/18441.png",
+      "128": "128/18441.png",
+      "64": "64/18441.png"
+    }
+  },
+  "297": {
+    "teamId": 297,
+    "espnTeamId": "2673",
+    "teamName": "Sporting Cristal",
+    "files": {
+      "500": "500/2673.png",
+      "128": "128/2673.png",
+      "64": "64/2673.png"
+    }
+  },
+  "298": {
+    "teamId": 298,
+    "espnTeamId": "21313",
+    "teamName": "Sportivo Ameliano",
+    "files": {
+      "500": "500/21313.png",
+      "128": "128/21313.png",
+      "64": "64/21313.png"
+    }
+  },
+  "299": {
+    "teamId": 299,
+    "espnTeamId": "17706",
+    "teamName": "Sportivo Barracas",
+    "files": {
+      "500": "500/17706.png",
+      "128": "128/17706.png",
+      "64": "64/17706.png"
+    }
+  },
+  "301": {
+    "teamId": 301,
+    "espnTeamId": "5583",
+    "teamName": "Sportivo Luqueño",
+    "files": {
+      "500": "500/5583.png",
+      "128": "128/5583.png",
+      "64": "64/5583.png"
+    }
+  },
+  "304": {
+    "teamId": 304,
+    "espnTeamId": "7466",
+    "teamName": "Sportivo Trinidense",
+    "files": {
+      "500": "500/7466.png",
+      "128": "128/7466.png",
+      "64": "64/7466.png"
+    }
+  },
+  "306": {
+    "teamId": 306,
+    "espnTeamId": "4820",
+    "teamName": "Tacuary",
+    "files": {
+      "500": "500/4820.png",
+      "128": "128/4820.png",
+      "64": "64/4820.png"
+    }
+  },
+  "307": {
+    "teamId": 307,
+    "espnTeamId": "19",
+    "teamName": "Talleres (Córdoba)",
+    "files": {
+      "500": "500/19.png",
+      "128": "128/19.png",
+      "64": "64/19.png"
+    }
+  },
+  "308": {
+    "teamId": 308,
+    "espnTeamId": "10161",
+    "teamName": "Talleres de Remedios",
+    "files": {
+      "500": "500/10161.png",
+      "128": "128/10161.png",
+      "64": "64/10161.png"
+    }
+  },
+  "316": {
+    "teamId": 316,
+    "espnTeamId": "9292",
+    "teamName": "Técnico Universitario",
+    "files": {
+      "500": "500/9292.png",
+      "128": "128/9292.png",
+      "64": "64/9292.png"
+    }
+  },
+  "309": {
+    "teamId": 309,
+    "espnTeamId": "10162",
+    "teamName": "Temperley",
+    "files": {
+      "500": "500/10162.png",
+      "128": "128/10162.png",
+      "64": "64/10162.png"
+    }
+  },
+  "310": {
+    "teamId": 310,
+    "espnTeamId": "2687",
+    "teamName": "The Strongest",
+    "files": {
+      "500": "500/2687.png",
+      "128": "128/2687.png",
+      "64": "64/2687.png"
+    }
+  },
+  "311": {
+    "teamId": 311,
+    "espnTeamId": "7767",
+    "teamName": "Tigre",
+    "files": {
+      "500": "500/7767.png",
+      "128": "128/7767.png",
+      "64": "64/7767.png"
+    }
+  },
+  "312": {
+    "teamId": 312,
+    "espnTeamId": "232",
+    "teamName": "Tigres UANL",
+    "files": {
+      "500": "500/232.png",
+      "128": "128/232.png",
+      "64": "64/232.png"
+    }
+  },
+  "881": {
+    "teamId": 881,
+    "espnTeamId": "10125",
+    "teamName": "Tijuana",
+    "files": {
+      "500": "500/10125.png",
+      "128": "128/10125.png",
+      "64": "64/10125.png"
+    }
+  },
+  "313": {
+    "teamId": 313,
+    "espnTeamId": "223",
+    "teamName": "Toluca",
+    "files": {
+      "500": "500/223.png",
+      "128": "128/223.png",
+      "64": "64/223.png"
+    }
+  },
+  "314": {
+    "teamId": 314,
+    "espnTeamId": "10163",
+    "teamName": "Tristán Suárez",
+    "files": {
+      "500": "500/10163.png",
+      "128": "128/10163.png",
+      "64": "64/10163.png"
+    }
+  },
+  "315": {
+    "teamId": 315,
+    "espnTeamId": "5268",
+    "teamName": "Trujillanos",
+    "files": {
+      "500": "500/5268.png",
+      "128": "128/5268.png",
+      "64": "64/5268.png"
+    }
+  },
+  "317": {
+    "teamId": 317,
+    "espnTeamId": "17705",
+    "teamName": "UAI Urquiza",
+    "files": {
+      "500": "500/17705.png",
+      "128": "128/17705.png",
+      "64": "64/17705.png"
+    }
+  },
+  "318": {
+    "teamId": 318,
+    "espnTeamId": "10094",
+    "teamName": "UCV FC",
+    "files": {
+      "500": "500/10094.png",
+      "128": "128/10094.png",
+      "64": "64/10094.png"
+    }
+  },
+  "737": {
+    "teamId": 737,
+    "espnTeamId": "11933",
+    "teamName": "Unión (MDP)",
+    "files": {
+      "500": "500/11933.png",
+      "128": "128/11933.png",
+      "64": "64/11933.png"
+    }
+  },
+  "327": {
+    "teamId": 327,
+    "espnTeamId": "20",
+    "teamName": "Unión (Santa Fe)",
+    "files": {
+      "500": "500/20.png",
+      "128": "128/20.png",
+      "64": "64/20.png"
+    }
+  },
+  "330": {
+    "teamId": 330,
+    "espnTeamId": "11324",
+    "teamName": "Unión Comercio",
+    "files": {
+      "500": "500/11324.png",
+      "128": "128/11324.png",
+      "64": "64/11324.png"
+    }
+  },
+  "331": {
+    "teamId": 331,
+    "espnTeamId": "4132",
+    "teamName": "Unión Española",
+    "files": {
+      "500": "500/4132.png",
+      "128": "128/4132.png",
+      "64": "64/4132.png"
+    }
+  },
+  "332": {
+    "teamId": 332,
+    "espnTeamId": "10144",
+    "teamName": "Unión La Calera",
+    "files": {
+      "500": "500/10144.png",
+      "128": "128/10144.png",
+      "64": "64/10144.png"
+    }
+  },
+  "320": {
+    "teamId": 320,
+    "espnTeamId": "885",
+    "teamName": "Universidad Católica",
+    "files": {
+      "500": "500/885.png",
+      "128": "128/885.png",
+      "64": "64/885.png"
+    }
+  },
+  "321": {
+    "teamId": 321,
+    "espnTeamId": "9283",
+    "teamName": "Universidad Católica (Quito)",
+    "files": {
+      "500": "500/9283.png",
+      "128": "128/9283.png",
+      "64": "64/9283.png"
+    }
+  },
+  "322": {
+    "teamId": 322,
+    "espnTeamId": "4139",
+    "teamName": "Universidad de Chile",
+    "files": {
+      "500": "500/4139.png",
+      "128": "128/4139.png",
+      "64": "64/4139.png"
+    }
+  },
+  "323": {
+    "teamId": 323,
+    "espnTeamId": "5362",
+    "teamName": "Universidad de Concepción",
+    "files": {
+      "500": "500/5362.png",
+      "128": "128/5362.png",
+      "64": "64/5362.png"
+    }
+  },
+  "324": {
+    "teamId": 324,
+    "espnTeamId": "2685",
+    "teamName": "Universitario",
+    "files": {
+      "500": "500/2685.png",
+      "128": "128/2685.png",
+      "64": "64/2685.png"
+    }
+  },
+  "325": {
+    "teamId": 325,
+    "espnTeamId": "6149",
+    "teamName": "Universitario de Sucre",
+    "files": {
+      "500": "500/6149.png",
+      "128": "128/6149.png",
+      "64": "64/6149.png"
+    }
+  },
+  "326": {
+    "teamId": 326,
+    "espnTeamId": "21379",
+    "teamName": "Universitario de Vinto",
+    "files": {
+      "500": "500/21379.png",
+      "128": "128/21379.png",
+      "64": "64/21379.png"
+    }
+  },
+  "319": {
+    "teamId": 319,
+    "espnTeamId": "10122",
+    "teamName": "UTC",
+    "files": {
+      "500": "500/10122.png",
+      "128": "128/10122.png",
+      "64": "64/10122.png"
+    }
+  },
+  "333": {
+    "teamId": 333,
+    "espnTeamId": "3454",
+    "teamName": "Vasco da Gama",
+    "files": {
+      "500": "500/3454.png",
+      "128": "128/3454.png",
+      "64": "64/3454.png"
+    }
+  },
+  "340": {
+    "teamId": 340,
+    "espnTeamId": "21",
+    "teamName": "Vélez Sarsfield",
+    "files": {
+      "500": "500/21.png",
+      "128": "128/21.png",
+      "64": "64/21.png"
+    }
+  },
+  "889": {
+    "teamId": 889,
+    "espnTeamId": "7393",
+    "teamName": "Veranópolis",
+    "files": {
+      "500": "500/7393.png",
+      "128": "128/7393.png",
+      "64": "64/7393.png"
+    }
+  },
+  "335": {
+    "teamId": 335,
+    "espnTeamId": "10114",
+    "teamName": "Victoriano Arenas",
+    "files": {
+      "500": "500/10114.png",
+      "128": "128/10114.png",
+      "64": "64/10114.png"
+    }
+  },
+  "336": {
+    "teamId": 336,
+    "espnTeamId": "10064",
+    "teamName": "Villa Dálmine",
+    "files": {
+      "500": "500/10064.png",
+      "128": "128/10064.png",
+      "64": "64/10064.png"
+    }
+  },
+  "338": {
+    "teamId": 338,
+    "espnTeamId": "10052",
+    "teamName": "Villa San Carlos",
+    "files": {
+      "500": "500/10052.png",
+      "128": "128/10052.png",
+      "64": "64/10052.png"
+    }
+  },
+  "339": {
+    "teamId": 339,
+    "espnTeamId": "3457",
+    "teamName": "Vitória",
+    "files": {
+      "500": "500/3457.png",
+      "128": "128/3457.png",
+      "64": "64/3457.png"
+    }
+  },
+  "341": {
+    "teamId": 341,
+    "espnTeamId": "6054",
+    "teamName": "Wilstermann",
+    "files": {
+      "500": "500/6054.png",
+      "128": "128/6054.png",
+      "64": "64/6054.png"
+    }
+  },
+  "342": {
+    "teamId": 342,
+    "espnTeamId": "10115",
+    "teamName": "Yupanqui",
+    "files": {
+      "500": "500/10115.png",
+      "128": "128/10115.png",
+      "64": "64/10115.png"
+    }
+  },
+  "343": {
+    "teamId": 343,
+    "espnTeamId": "6763",
+    "teamName": "Zamora FC",
+    "files": {
+      "500": "500/6763.png",
+      "128": "128/6763.png",
+      "64": "64/6763.png"
+    }
+  },
+  "344": {
+    "teamId": 344,
+    "espnTeamId": "9789",
+    "teamName": "Zulia",
+    "files": {
+      "500": "500/9789.png",
+      "128": "128/9789.png",
+      "64": "64/9789.png"
+    }
+  }
+}
