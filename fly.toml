@@ -8,6 +8,10 @@ primary_region = 'gru'
 
 [build]
 
+[build.args]
+  VITE_SUPABASE_URL = 'https://vxugljymhahchydylsxs.supabase.co'
+  VITE_SUPABASE_ANON_KEY = 'sb_publishable_znm7KXWAvAkBqKpMp8AAnQ_QLKIQciS'
+
 [http_service]
   internal_port = 8080
   force_https = true
