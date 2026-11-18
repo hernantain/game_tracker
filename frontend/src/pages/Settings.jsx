@@ -149,12 +149,12 @@ export default function Settings() {
             const away = g.isHome ? g.rival : favoriteTeam?.team_name || t('settingsYourClub');
             const hs = g.isHome ? g.localScore : g.rivalScore;
             const as = g.isHome ? g.rivalScore : g.localScore;
-            const homeEspn = g.isHome ? favoriteTeam?.espnTeamId : g.opponentEspnId;
-            const awayEspn = g.isHome ? g.opponentEspnId : favoriteTeam?.espnTeamId;
+            const homeEspn = g.isHome ? favoriteTeam?.espn_team_id : g.opponentEspnId;
+            const awayEspn = g.isHome ? g.opponentEspnId : favoriteTeam?.espn_team_id;
             return (
               <li key={g.gameId}>
                 <label
-                  className={`flex items-center gap-3 p-2.5 rounded-lg cursor-pointer border transition-colors ${
+                  className={`relative flex items-center gap-3 p-2.5 rounded-lg cursor-pointer border transition-colors ${
                     isSel ? 'bg-racing-blue/10 border-racing-blue/40'
                           : 'bg-surface-2/40 border-surface-3 hover:bg-surface-2'
                   }`}

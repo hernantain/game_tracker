@@ -57,6 +57,8 @@ The repo has no tests, linter or formatter configured.
 
 **ESPN data** (`backend/espn.py` + `backend/seed/`): ESPN scores are trusted only once a match is marked completed (scheduled games report 0-0). Kickoff times are UTC and must be converted before taking the local date. Goal scorers are matched by name against that game's appearances. `sync_goals` requires `games.competition` (the league slug), so run `sync_games`/`backfill_competitions` first.
 
+**Scheduled ESPN sync** (`supabase/functions/sync-games`, Deno/TypeScript): runs hourly from pg_cron (`supabase/cron.sql`). Each run upserts teams, games and scores for a window around today, and for finished games that lack them it fetches players, appearances and goals. It replaces `sync_games`/`sync_goals` for day-to-day use. `sync-games/espn.ts` ports the parsing from `backend/espn.py` and `sync_goals.py`, so keep them in step. The function runs with `verify_jwt = false` and requires an `x-cron-secret` header. Deploy with `supabase functions deploy sync-games`.
+
 **Static serving:** when `backend/static/` exists (the frontend build is copied there), `main.py` mounts `SPAStaticFiles`. It falls back to `index.html` for client routes, but returns a real 404 for `api/*` and for file-like paths. `start.sh` switches to production mode based on whether that directory exists. Club crests are served from `frontend/public/crests/<size>/<espn_team_id>.png` (sizes 64/128/500).
 
 **Frontend:** React Router pages in `src/pages`. `src/api.js` attaches the Supabase bearer token to every request. Auth state lives in `src/auth/AuthContext.jsx`, and UI strings in `src/i18n/translations.js` (via `LanguageContext`).
