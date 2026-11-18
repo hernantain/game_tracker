@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## What this is
 
-Game Tracker: a web app where a user records the football games they attended and sees statistics about them (results, opponents, players, goals, tournaments). FastAPI + SQLAlchemy backend on Supabase Postgres, React + Vite + Tailwind frontend, Supabase Auth (Google sign-in). Deployed to Fly.io (`fly.toml`, app `cancha`, region `gru`) as a single container in which FastAPI serves the built SPA.
+Game Tracker: a web app where a user records the football games they attended and sees statistics about them (results, opponents, players, goals, tournaments). FastAPI + SQLAlchemy backend on Supabase Postgres, React + Vite + Tailwind frontend, Supabase Auth (Google sign-in). Deployed to Fly.io (`fly.toml`, app `canchita`, region `gru`) as a single container in which FastAPI serves the built SPA.
 
 ## Commands
 
@@ -62,6 +62,10 @@ The repo has no tests, linter or formatter configured.
 **Static serving:** when `backend/static/` exists (the frontend build is copied there), `main.py` mounts `SPAStaticFiles`. It falls back to `index.html` for client routes, but returns a real 404 for `api/*` and for file-like paths. `start.sh` switches to production mode based on whether that directory exists. Club crests are served from `frontend/public/crests/<size>/<espn_team_id>.png` (sizes 64/128/500).
 
 **Frontend:** React Router pages in `src/pages`. `src/api.js` attaches the Supabase bearer token to every request. Auth state lives in `src/auth/AuthContext.jsx`, and UI strings in `src/i18n/translations.js` (via `LanguageContext`).
+
+## Deployment
+
+Every push to `main` deploys to Fly.io through `.github/workflows/fly-deploy.yml`, which runs `flyctl deploy --remote-only`. The workflow can also be started by hand from the Actions tab. It needs a `FLY_API_TOKEN` repo secret, created with `fly tokens create deploy -a canchita`. The `VITE_*` values the frontend needs at build time come from `[build.args]` in `fly.toml`, so CI needs no other secrets, and only public values belong there. The workflow does not run Alembic migrations or `supabase functions deploy`. Run those by hand.
 
 ## Known stale references
 

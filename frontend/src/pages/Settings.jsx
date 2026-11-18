@@ -22,6 +22,8 @@ export default function Settings() {
   const [original, setOriginal] = useState(() => new Set());
   const [year, setYear] = useState('');
   const [search, setSearch] = useState('');
+  const [competition, setCompetition] = useState('');
+  const [venue, setVenue] = useState(''); // '' | 'home' | 'away'
   const [saving, setSaving] = useState(false);
   const [error, setError] = useState(null);
 
@@ -50,15 +52,23 @@ export default function Settings() {
     [games],
   );
 
+  const competitions = useMemo(
+    () => [...new Set((games ?? []).map((g) => g.competition).filter(Boolean))]
+      .sort((a, b) => a.localeCompare(b)),
+    [games],
+  );
+
   const visible = useMemo(() => {
     let rows = games ?? [];
     if (year) rows = rows.filter((g) => g.date.startsWith(year));
+    if (competition) rows = rows.filter((g) => g.competition === competition);
+    if (venue) rows = rows.filter((g) => g.isHome === (venue === 'home'));
     if (search) {
       const q = search.toLowerCase();
       rows = rows.filter((g) => g.rival.toLowerCase().includes(q));
     }
     return rows;
-  }, [games, year, search]);
+  }, [games, year, competition, venue, search]);
 
   // Only what actually changed, so a small correction stays a small request.
   const changed = useMemo(() => {
@@ -135,6 +145,25 @@ export default function Settings() {
           >
             <option value="">{t('allYears')}</option>
             {years.map((y) => <option key={y} value={y}>{y}</option>)}
+          </select>
+          <select
+            value={competition}
+            onChange={(e) => setCompetition(e.target.value)}
+            className="bg-surface-2 border border-surface-3 rounded-lg px-3 py-1.5 text-sm text-gray-300
+                       max-w-[220px] focus:outline-none focus:border-racing-blue"
+          >
+            <option value="">{t('allCompetitions')}</option>
+            {competitions.map((c) => <option key={c} value={c}>{c}</option>)}
+          </select>
+          <select
+            value={venue}
+            onChange={(e) => setVenue(e.target.value)}
+            className="bg-surface-2 border border-surface-3 rounded-lg px-3 py-1.5 text-sm text-gray-300
+                       focus:outline-none focus:border-racing-blue"
+          >
+            <option value="">{t('allVenues')}</option>
+            <option value="home">{t('venueHome')}</option>
+            <option value="away">{t('venueAway')}</option>
           </select>
         </div>
 

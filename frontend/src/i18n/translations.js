@@ -139,6 +139,9 @@ export const translations = {
     matchesFound: '{count} partidos encontrados',
     searchOpponent: 'Buscar rival…',
     allYears: 'Todos los Años',
+    allVenues: 'Local y visitante',
+    venueHome: 'Local',
+    venueAway: 'Visitante',
     noMatchesFound: 'No se encontraron partidos.',
     loadMore: 'Cargar más ({count} restantes)',
 
@@ -309,6 +312,9 @@ export const translations = {
     matchesFound: '{count} matches found',
     searchOpponent: 'Search opponent…',
     allYears: 'All Years',
+    allVenues: 'Home & away',
+    venueHome: 'Home',
+    venueAway: 'Away',
     noMatchesFound: 'No matches found.',
     loadMore: 'Load more ({count} remaining)',
 
