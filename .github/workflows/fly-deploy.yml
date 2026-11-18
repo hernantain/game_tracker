@@ -1,5 +1,5 @@
 # Deploys to Fly.io on every push to main.
-# Requires the FLY_API_TOKEN repo secret: `fly tokens create deploy -x 999999h`
+# Requires the FLY_API_TOKEN repo secret: `fly tokens create deploy -a canchita-aqpbia -x 999999h`
 name: Fly Deploy
 
 on:
